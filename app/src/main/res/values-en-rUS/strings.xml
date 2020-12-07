@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio</string>
+    <string name="nombre">Name</string>
+    <string name="apellidos">Last Names</string>
+    <string name="cuenta">Account #</string>
+    <string name="fechaN">Date of Birth</string>
+    <string name="carrera">Career</string>
+    <string name="edad">Years Old</string>
+    <string name="campo">Check the data is correct</string>
+    <string name="civil">Civil Engineering</string>
+    <string name="minas">Mining and Metallurgy Engineering</string>
+    <string name="electrica">Electronic Electrical Engineering</string>
+    <string name="compu">Computer Engineering</string>
+    <string name="telecom">Telecommunications Engineering</string>
+    <string name="geofisica">Geophysical Engineering</string>
+    <string name="geologica">Geological Engineering</string>
+    <string name="industrial">Industrial Engineering</string>
+    <string name="mecanica">Mechanical Engineering</string>
+    <string name="petrolera">Petroleum Engineering</string>
+    <string name="mecatronica">Mechatronics Engineering</string>
+    <string name="geomatica">Geomatic Engineering</string>
+    <string name="biomedicos">"Biomedical Systems Engineering "</string>
+    <string name="ambiental">Environmental Engineering</string>
+    <string name="aeroespacial">Aerospace Engineering</string>
+</resources>

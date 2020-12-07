@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ejercicio</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="cuenta"># Cuenta</string>
+    <string name="fechaN">Fecha Nacimiento</string>
+    <string name="carrera">Carrera</string>
+    <string name="edad">Edad</string>
+    <string name="campo">Revise que los datos sean correctos</string>
+    <string name="civil">Ing. Civil</string>
+    <string name="minas">Ing. de Minas y Metalurgia</string>
+    <string name="electrica">Ing. Electrica Electronica</string>
+    <string name="compu">Ing. en Computacion</string>
+    <string name="telecom">Ing. en Telecomunicaciones</string>
+    <string name="geofisica">Ing. Geofisica</string>
+    <string name="geologica">Ing. Geologica</string>
+    <string name="industrial">Ing. Industrial</string>
+    <string name="mecanica">Ing. Mecanica</string>
+    <string name="petrolera">Ing. Petrolera</string>
+    <string name="mecatronica">Ing. Mecatrónica</string>
+    <string name="geomatica">Ing. Geomática</string>
+    <string name="biomedicos">Ing. en Sistemas Biomedicos</string>
+    <string name="ambiental">Ing. Ambiental</string>
+    <string name="aeroespacial">Ing. Aeroespacial</string>
+
+</resources>
